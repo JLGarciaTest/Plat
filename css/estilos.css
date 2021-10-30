@@ -7,10 +7,6 @@ body {
 }
 p{
     text-align: justify;
-<<<<<<< HEAD
-    background-color: aqua;
-    font-family: 'Lucida Sans';
-=======
     background-color: rgb(30, 41, 41);
 }
 #cabecera {
@@ -24,5 +20,4 @@ p{
     padding: 1em;
     border: 1px solid ;
     margin: 0 auto;
->>>>>>> cabecera
 }
