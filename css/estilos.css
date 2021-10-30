@@ -1,5 +1,28 @@
+body {
+    color: bisque;
+    text-align: center;
+    font-size: 16px;
+    margin: 0;
+    padding: 0;
+}
 p{
     text-align: justify;
+<<<<<<< HEAD
     background-color: aqua;
     font-family: 'Lucida Sans';
+=======
+    background-color: rgb(30, 41, 41);
+}
+#cabecera {
+    background-color:blueviolet;
+    color: azure;
+    margin: 0%;
+    padding: 0.5em;
+}
+#container {
+    width: 70%;
+    padding: 1em;
+    border: 1px solid ;
+    margin: 0 auto;
+>>>>>>> cabecera
 }
